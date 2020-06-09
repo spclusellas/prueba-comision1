@@ -1,3 +1,4 @@
 let persona = {
-    nombre: "Eric"
+    nombre: "Eric",
+    apellido: "Mena"
 }
